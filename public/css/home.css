@@ -1,0 +1,24 @@
+body{
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.nav{
+    flex-direction: column;
+    border:none !important;
+}
+
+.nav *{
+    border:none !important;
+}
+
+.nav .type{
+    font-size:12px;
+}
+
+.row > .menu__outer {
+    border-right:1px solid #ccc;
+}
+
+.row > .fuckyou__outer{
+    padding-left:40px;
+}
